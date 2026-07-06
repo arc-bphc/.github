@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="logo.png" alt="ARC Logo" width="150" />
+<img src="../logo.png" alt="ARC Logo" width="150" />
 
 # Arson and Robbery Club
 Welcome to the active workspace. This is the central directory for our current codebase, active tasks, and internal resources. 
@@ -15,7 +15,7 @@ Welcome to the active workspace. This is the central directory for our current c
   <tr>
     <td align="center" width="50%">
       <a href="https://github.com/AviralxD/the-sims">
-        <img src="robotic arm.jpeg" alt="Sim" width="100%" />
+        <img src="../robotic arm.jpeg" alt="Sim" width="100%" />
       </a>
       <br>
       <b> The Sims!</b>
