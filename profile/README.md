@@ -2,7 +2,7 @@
 
 <img src="../logo.png" alt="ARC Logo" width="150" />
 
-# Arson and Robbery Club
+# Automation and Robotics Club
 Welcome to the active workspace. This is the central directory for our current codebase, active tasks, and internal resources. 
 
 </div>
